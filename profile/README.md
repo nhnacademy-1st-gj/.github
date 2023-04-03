@@ -1,6 +1,7 @@
 Welcome To My Bootcamp Journal For NHN Academy!
 =================
-This is a bootcamp journal that focuses on what I have learned through NHN Academy Gwangju. The course took place from July 11, 2022, to December 16, 2022. Each repository contains practical exercises and evaluated assignments based on the lessons.
+This is a bootcamp journal that focuses on what I have learned through NHN Academy Gwangju. The NHN Academy offers the same curriculum as NHN's new employee training program. The course took place from July 11, 2022, to December 16, 2022. <br>
+Each repository contains practical exercises and evaluated assignments based on the lessons.
 <br>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
@@ -45,7 +46,7 @@ Based on my growth through the program, I am now working on my own Java project 
 
 ✅New Goal: Becoming an Expert
 --------------
-Attending the NHN Academy Java Backend Course provided me with the privilege of learning from and communicating with experts who hold positions such as CTO, Senior Manager, and Senior at NHN Dooray!. This experience inspired me to set higher goals for myself and become an expert in my field. With determination, I will work towards my new goal and enjoy continuous learning like those professionals.
+Attending the NHN Academy Java Backend Course provided me with the privilege of learning from and communicating with experts who hold positions such as CTO and Senior Manager at NHN Dooray!. This experience inspired me to set higher goals for myself and become an expert in my field. With determination, I will work towards my new goal and enjoy continuous learning like those professionals.
 
-To achieve this goal, I have set short-term objectives, which include deploying the delivery order program I am currently developing to make it available for users to utilize. 
+To achieve this goal, I have set short-term objectives, which include deploying the delivery order program I am currently developing to make it available for users to utilize. <br><br>
 **I will take it slowly but always move forward along the path of a developer.**
